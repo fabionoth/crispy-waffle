@@ -1,6 +1,6 @@
-# SEALED landing page
+# HSK Contract Watchdog landing page
 
-Static English landing page for the hackathon disclosure concept. SEALED is a provisional name. This is presentation content, not a working registry, authentication system, or disclosure backend.
+Static English landing page for the hackathon disclosure concept. This is presentation content, not a working registry, authentication system, or disclosure backend.
 
 ## Publish on Vercel
 
