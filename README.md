@@ -1,6 +1,6 @@
 # HSK Contract Watchdog landing page
 
-Static English landing page for the hackathon disclosure concept. This is presentation content, not a working registry, authentication system, or disclosure backend.
+Static English landing page for an agent-powered smart contract monitor covering testnet and mainnet. The workflow contacts owners using details available on the contract first; when no contact is available, it publishes the owner wallet address and a warning on a watch portal. This page is a product overview, not a connected monitoring service or live watch portal.
 
 ## Publish on Vercel
 
